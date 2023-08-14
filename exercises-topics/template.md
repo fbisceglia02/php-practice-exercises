@@ -27,8 +27,8 @@
 </main>
 
 <footer>
-    <h3>Back to index:</h3>
-    <a href="../Index.php">
+    <h3>Back to index_0:</h3>
+    <a href="./index_0.php">
         <button>Go back</button>
     </a>
 </footer>

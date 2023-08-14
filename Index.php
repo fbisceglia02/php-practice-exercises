@@ -86,6 +86,13 @@
     </a>
 </div>
 
+<div>
+    <h3>go to topics 5-6-7 exercises</h3>
+    <a href="./exercises-php-5-6-7/index_0.php">
+        <button>Go</button>
+    </a>
+</div>
+
 
 </body>
 </html>
